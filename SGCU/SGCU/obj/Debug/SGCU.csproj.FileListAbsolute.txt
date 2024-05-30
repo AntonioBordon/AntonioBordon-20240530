@@ -1,0 +1,10 @@
+C:\Users\Antonio Bordon\source\repos\SGCU\SGCU\bin\Debug\SGCU.exe.config
+C:\Users\Antonio Bordon\source\repos\SGCU\SGCU\bin\Debug\SGCU.exe
+C:\Users\Antonio Bordon\source\repos\SGCU\SGCU\bin\Debug\SGCU.pdb
+C:\Users\Antonio Bordon\source\repos\SGCU\SGCU\obj\Debug\SGCU.csproj.AssemblyReference.cache
+C:\Users\Antonio Bordon\source\repos\SGCU\SGCU\obj\Debug\SGCU.Properties.Resources.resources
+C:\Users\Antonio Bordon\source\repos\SGCU\SGCU\obj\Debug\SGCU.csproj.GenerateResource.cache
+C:\Users\Antonio Bordon\source\repos\SGCU\SGCU\obj\Debug\SGCU.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Bordon\source\repos\SGCU\SGCU\obj\Debug\SGCU.exe
+C:\Users\Antonio Bordon\source\repos\SGCU\SGCU\obj\Debug\SGCU.pdb
+C:\Users\Antonio Bordon\source\repos\SGCU\SGCU\obj\Debug\SGCU.FormCadastro.resources
